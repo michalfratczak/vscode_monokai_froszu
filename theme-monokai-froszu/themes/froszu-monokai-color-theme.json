@@ -147,7 +147,7 @@
 			"scope": "entity.name.class, entity.name.type",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#B50000",
+				"foreground": "#B53333",
 				"background": "#1E1E1E"
 			}
 		},
