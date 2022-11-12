@@ -1,0 +1,19 @@
+{
+	"name": "theme-monokai-froszu-dark",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Froszu Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-froszu-dark-color-theme.json"
+			}
+		]
+	}
+}
